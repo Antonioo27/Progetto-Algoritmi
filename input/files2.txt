@@ -1,0 +1,9 @@
+8
+zero 3
+primo 6
+secondo 2
+terzo 14
+quarto 2
+quinto 4
+sesto 1
+settimo 5 
